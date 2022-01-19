@@ -2,9 +2,8 @@
 
 > this is my developer page
 
-## past
-
 ## current
+* Currently I am pursuing my last semester of masters in Applied computer science at Northwest Missouri State University.
 
 ## future
 
