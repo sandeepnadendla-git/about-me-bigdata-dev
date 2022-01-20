@@ -2,12 +2,18 @@
 
 > this is my developer page
 
-## current
+## Current
 * Currently I am pursuing my last semester of masters in Applied computer science at Northwest Missouri State University.
 
-## future
+## Background
+* I am from Andhra Pradesh, India.
+* I did my undegraduate from Nri institute of technology, Vijayawada in the stream of Information Technology.
+* I have an experiance of 2 years as full stack developer in dot net.
 
-## links
+## Future
+* I want to start my career as full stack developer in a reputable company.
+
+## Links
 
 * [github link](https://github.com/sandeepnadendla-git)
 * [LinkedIn](https://www.linkedin.com/in/sandeepnadendla/)
